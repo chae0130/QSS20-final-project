@@ -116,15 +116,3 @@ Key sources include: AARP 2023 LTSS State Scorecard, KFF Medicaid data, Rehabili
 | 7 | `fig7_domain_correlation.png` | Domains are statistically near-independent (median *r* = 0.26) |
 
 ---
-
-## Citation
-
-If you use this index, please cite:
-
-> Nair, S. (2025). *Mapping the Disability Policy Landscape: A State-Level Index of Policy Generosity and Comprehensiveness.* Dartmouth College, QSS 30.
-
----
-
-## Acknowledgments
-
-Class of '74 Health Equity Scholars Pathway, Dartmouth College. Presented at APHA Annual Meeting 2025.
